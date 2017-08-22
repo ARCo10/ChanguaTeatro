@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instructions">Drag or stretch photos</string>
+    <string name="app_name">Changua Teatro</string>
+    <string name="Seleccionar">Seleccionar</string>
+    <string name="capturar">Capturar</string>
+    <string name="guardar">Guardar</string>
+    <string name="enviar">Enviar</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="home">Home</string>
+    <string name="Celular">Ingresa tu número de celular:</string>
+    <string name="changa">#comparteatro</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/layout/principal.xml",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/principal.xml"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/layout/promt.xml",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/promt.xml"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/layout/ayuda.xml",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/ayuda.xml"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/main.xml"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#575757</color>
+    <color name="holo_light_blue">#33B5E5</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="semi_transparent_black">#C8000000</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="ayuda">200px</dimen>
+    <dimen name="ayudaPrincipal">100px</dimen>
+    <string name="Celular">Ingresa tu número de celular:</string>
+    <string name="Seleccionar">Seleccionar</string>
+    <string name="app_name">Changua Teatro</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="capturar">Capturar</string>
+    <string name="changa">#comparteatro</string>
+    <string name="enviar">Enviar</string>
+    <string name="guardar">Guardar</string>
+    <string name="home">Home</string>
+    <string name="instructions">Drag or stretch photos</string>
+</resources>

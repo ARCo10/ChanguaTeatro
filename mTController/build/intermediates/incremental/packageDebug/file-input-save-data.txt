@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Sun Nov 20 21:22:50 COT 2016
+1.file=/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/mTController/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+0.file=/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/mTController/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+1.base=/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/mTController/build/intermediates/res/resources-debug.ap_
+0.base=/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/mTController/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+0.set=DEX
+count=2

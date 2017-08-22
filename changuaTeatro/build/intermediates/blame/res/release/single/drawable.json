@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/enviar.png",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/enviar.png"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/intro.jpg",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/intro.jpg"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/capturar.png",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/capturar.png"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/home.png",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/changa.png",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/changa.png"
+    },
+    {
+        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/release/drawable/ayuda.png",
+        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/drawable/ayuda.png"
+    }
+]
