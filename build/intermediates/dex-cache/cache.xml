@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/andresrchaparro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="D:\Apps-dev\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/pre-dexed/debug/support-v4-18.0.0_bad2faf0a92c70a2244427bf8aea0aa2a5759582.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/andresrchaparro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/pre-dexed/debug/support-v4-18.0.0_bad2faf0a92c70a2244427bf8aea0aa2a5759582.jar" />
+        <dex dex="D:\Apps-dev\Android\ChanguaTeatro\changuaTeatro\build\intermediates\pre-dexed\debug\support-v4-18.0.0_38d18b347655fc6420e959b3d5c59130770a9f59.jar" />
     </item>
 
 </items>

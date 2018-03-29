@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/debug/layout/promt.xml",
-        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/promt.xml"
+        "merged": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/debug/layout/ayuda.xml",
-        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/ayuda.xml"
+        "merged": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/debug/layout/principal.xml",
-        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/principal.xml"
+        "merged": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\promt.xml",
+        "source": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\promt.xml"
     },
     {
-        "merged": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/andresrchaparro/AndroidStudioProjects/ChanguaTeatro/changuaTeatro/src/main/res/layout/main.xml"
+        "merged": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\promt.xml",
+        "source": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\promt.xml"
+    },
+    {
+        "merged": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\principal.xml",
+        "source": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\principal.xml"
+    },
+    {
+        "merged": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\ayuda.xml",
+        "source": "D:\\Users\\andresrchaparro\\AndroidStudioProjects\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\ayuda.xml"
+    },
+    {
+        "merged": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\ayuda.xml",
+        "source": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\ayuda.xml"
+    },
+    {
+        "merged": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\build\\intermediates\\res\\merged\\debug\\layout\\principal.xml",
+        "source": "D:\\Apps-dev\\Android\\ChanguaTeatro\\changuaTeatro\\src\\main\\res\\layout\\principal.xml"
     }
 ]
